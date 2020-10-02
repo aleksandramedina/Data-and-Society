@@ -4,6 +4,6 @@
 Welcome to my **Data and Society** repository. Here I will post my work from the class.
 
 <b>Currently working on:</b>👩🏼‍💻
-- [ ] First lab
+- [x] First lab
 
 
