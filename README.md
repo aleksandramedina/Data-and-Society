@@ -6,5 +6,6 @@ Welcome to my **Data and Society** repository. Here I will post my work from the
 <b>Currently working on:</b>👩🏼‍💻
 - [x] First lab
 - [x] Second lab
+- [x] Third lab
 
 
